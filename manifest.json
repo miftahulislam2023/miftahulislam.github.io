@@ -1,11 +1,11 @@
 {
-    "name": "miftahprint",
-    "short_name": "miftahprint",
+    "name": "miftahprintapp",
+    "short_name": "miftahprintapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A printing service app",
+    "description": "miftahprint backend",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
