@@ -1,11 +1,11 @@
 {
-    "name": "project1",
-    "short_name": "project1",
+    "name": "miftahprint",
+    "short_name": "miftahprint",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Silm Foundation",
+    "description": "A printing service app",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
